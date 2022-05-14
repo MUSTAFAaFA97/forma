@@ -94,3 +94,9 @@ button {
 button:hover {
   background-color: rgba(152, 204, 199, 0.514);
 }
+.copy{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+}
